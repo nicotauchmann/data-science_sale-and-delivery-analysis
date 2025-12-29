@@ -5,7 +5,7 @@
 ## Dataset & Sources
 - Link to database files: <https://drive.usercontent.google.com/download?id=1Y6fWPUQrMofINrIV1X2pIQNcTv-1H2CF&export=download&authuser=0)>
 - Source: Dataset of Online Retailer "Magist"
-- Size: 99,441 unique orders from 3,095 sellers out of 
+- Size: 99,441 unique orders from 3,095 sellers
 - Timeframe: 2016-09-04 23:15:19 to	2018-10-17 19:30:18
 - Key Features: CustomerID, SellerID, Quantity, UnitPrice, OrderDate, Expected Delivery, State
 ## Example Visualisations
