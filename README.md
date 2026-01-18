@@ -1,4 +1,4 @@
-# Data Science - Sale and delivery analysis
+# Data Science - Geospatial sale and delivery analysis
 ## Project Overview
 - answering the question if a service provider is a good fit for a company, based on their performance regarding sales and deliveries in the Brazilian Tech Market
 - analysis of company data base using MySQL Queries
