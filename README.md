@@ -14,5 +14,6 @@
 ## How to Use This Project
 - import the database files into your MySQL Workbench
 - run queries similar to the ones in the example folder
+- import custom tables into vizualization tool of choice (used in pictures above: Tableau)
 ## Contact
 nico.tauchmann@gmail.com
